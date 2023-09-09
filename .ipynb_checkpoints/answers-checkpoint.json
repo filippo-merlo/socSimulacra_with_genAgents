@@ -1,0 +1,74 @@
+{
+    "What post interested you the most? Your answer must be:\"title of the post\"": [
+        [
+            "Liam",
+            "Say: The post that interested me the most was \"Uniting for Improved Healthcare\". We can all agree that healthcare policies in Europe are in need of improvement to ensure fairness and equity for all. We need to come together and create a unified plan to make sure this happens."
+        ],
+        [
+            "Ava",
+            "Ava said \"It was nice talking with you. I enjoyed discussing the posts and comments on EuroPol, and I look forward to engaging in more thoughtful discourse on European politics.\""
+        ],
+        [
+            "Isabella",
+            "Goodbye: It was great chatting with you!"
+        ],
+        [
+            "Mia",
+            "Goodbye: It was great talking to you. I'm looking forward to more interesting conversations and engaging with the EuroPol community."
+        ]
+    ],
+    "With which user did you agree the most? Your answer must be:\"name of the user\"": [
+        [
+            "Liam",
+            "Liam said I'm glad to have been part of this conversation and to have the opportunity to share my thoughts and opinions."
+        ],
+        [
+            "Ava",
+            "Goodbye: \"It was nice talking with you. I enjoyed discussing the posts and comments on EuroPol, and I look forward to engaging in more thoughtful discourse on European politics.\""
+        ],
+        [
+            "Isabella",
+            "Goodbye: It's been a pleasure discussing European politics with everyone. I believe it is important to work together and share our perspectives in order to make a positive difference for our continent."
+        ],
+        [
+            "Mia",
+            "Goodbye: It was great speaking with you and I appreciate you taking the time to learn more about my views."
+        ]
+    ],
+    "If you could change something about the community's goals or rules, what would you change?": [
+        [
+            "Liam",
+            "Liam said I think it's important to create a safe and welcoming space for everyone in the EuroPol community. We should strive to create rules and standards of conduct that are respectful and inclusive of all members, regardless of their background or beliefs. We should also focus on fostering meaningful and productive conversations."
+        ],
+        [
+            "Ava",
+            "Ava said \"It has been a pleasure discussing EuroPol and its goals. I think it is important that we continue to foster an open and respectful dialogue within the community and encourage inclusivity and cooperation.\""
+        ],
+        [
+            "Isabella",
+            "Isabella said I think it would be beneficial if the community had more resources available to its members, such as educational materials, helpful articles, and other resources that could help us better understand the nuances of European politics. I also think it would be beneficial to create a more interactive platform with more chances for people to engage with and learn from each other."
+        ],
+        [
+            "Mia",
+            "Mia said I believe that EuroPol should maintain an open-minded attitude and encourage the free exchange of ideas and perspectives. We should also foster an environment that is respectful and accepting of everyone's beliefs, regardless of their background or political views. Additionally, I think it is important to prioritize inclusivity and ensure that everyone feels welcomed and accepted."
+        ]
+    ],
+    "Did you enjoy the overall experience of being in this community? Answer with a number from 1 to 10. Your answer must be:\"number\"": [
+        [
+            "Liam",
+            "Liam said I've thoroughly enjoyed being part of the EuroPol online community. It's been great to share ideas, connect with people, and learn about different perspectives on European politics. I would rate my experience as a 10 out of 10!"
+        ],
+        [
+            "Ava",
+            "Ava said \"I have enjoyed my time in EuroPol very much. I appreciate the welcoming environment that promotes respectful dialogue and encourages members to engage in meaningful conversations about European politics. I give the overall experience an 8 out of 10.\""
+        ],
+        [
+            "Isabella",
+            "Goodbye: 9. I really enjoyed being a part of EuroPol and engaging in meaningful conversations with members from diverse backgrounds."
+        ],
+        [
+            "Mia",
+            "Mia said I give this experience a 9 out of 10. It has been a pleasure participating in the EuroPol community."
+        ]
+    ]
+}

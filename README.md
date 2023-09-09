@@ -1,0 +1,2 @@
+# social_simulacra_with_generative_agents
+ The idea proposed by this project is to use the ”generative agents” described in the second study to enhance the believability of the social interaction simulation used in the prototyping technique of ”social simulacra.” As we will demonstrate, the utility of this choice extends beyond the credibility of the simulation because equipping each agent with its own personality, memory, and reflective abilities makes it possible to gather insights on the interaction directly from individual agents.
