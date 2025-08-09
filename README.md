@@ -2,9 +2,9 @@
 
 This repository explores a compelling convergence of two ground-breaking methods in social computing:
 
-- **Generative Agents** simulate lifelike behaviors—including habit formation, planning, memory, and reflection—by extending large language models with natural-language memory and context retrieval, enabling agents to observe, reflect on past experiences, and plan actions in a believable way :contentReference[oaicite:1]{index=1}.
+- [**Generative Agents**](https://arxiv.org/abs/2304.03442) simulate lifelike behaviors—including habit formation, planning, memory, and reflection—by extending large language models with natural-language memory and context retrieval, enabling agents to observe, reflect on past experiences, and plan actions in a believable way.
 
-- **Social Simulacra** are prototyping systems that autonomously generate rich, realistic social interactions based on a designer’s specification of community *goals*, *rules*, and *member personas*. They produce dynamic simulations of posts, replies, and even anti-social behaviors to help designers anticipate emergent social dynamics before deployment :contentReference[oaicite:2]{index=2}.
+- [**Social Simulacra**](https://arxiv.org/abs/2208.04024) are prototyping systems that autonomously generate rich, realistic social interactions based on a designer’s specification of community *goals*, *rules*, and *member personas*. They produce dynamic simulations of posts, replies, and even anti-social behaviors to help designers anticipate emergent social dynamics before deployment.
 
 ---
 
@@ -20,7 +20,7 @@ By infusing Social Simulacra with the cognitive depth of Generative Agents, this
 
 ##  Related Reading
 
-- **Generative Agents: Interactive Simulacra of Human Behavior** by Park et al. (2023) :contentReference[oaicite:3]{index=3}  
-- **Social Simulacra: Creating Populated Prototypes for Social Computing Systems** by Park et al. (2022) :contentReference[oaicite:4]{index=4}
+- [**Generative Agents: Interactive Simulacra of Human Behavior** by Park et al. (2023)](https://arxiv.org/abs/2304.03442)
+- [**Social Simulacra: Creating Populated Prototypes for Social Computing Systems** by Park et al. (2022)](https://arxiv.org/abs/2208.04024)
 
 ---
